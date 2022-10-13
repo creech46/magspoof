@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MagSpoofTC-rescue)(type Legacy)(uri ${KIPRJMOD}/MagSpoofTC-rescue.lib)(options "")(descr ""))
+)
